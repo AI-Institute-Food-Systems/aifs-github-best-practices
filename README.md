@@ -38,7 +38,7 @@ Train the model.
 
 ## Authors
 
-You can the list of authors in the [AUTHORS]() file.
+You can view the list of authors in the [AUTHORS](https://github.com/AI-Institute-Food-Systems/aifs-github-best-practices/blob/main/AUTHORS) file.
 
 ## Contact
 
@@ -50,7 +50,7 @@ Include citation here.
 
 ## License
 
-This project is licensed under the [Name of license]. Please see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the [Name of license]. Please see the [LICENSE](https://github.com/AI-Institute-Food-Systems/aifs-github-best-practices/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
